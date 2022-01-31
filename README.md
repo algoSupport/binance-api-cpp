@@ -1,4 +1,4 @@
-# binapi
+# Binance API
 Binance API implemented in C++ for both synchronous and asynchronous way.
 
 <!-- # Donate
